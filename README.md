@@ -115,36 +115,40 @@ A Flutter UI was prepared (`flutter_ui/` folder) but not implemented due to time
 ### System Working Demonstrations
 
 #### 1. Health Check
-![Health Status](screenshots/health-status.jpg)
+![Health Status](screenshots/health_status.jpg)
 *System health check showing database connectivity and service status*
 
 #### 2. API Documentation  
-![Swagger Documentation](screenshots/swagger-docs.jpg)
+![Swagger Documentation](screenshots/swagger_docs.jpg)
 *Interactive API documentation with all 7 endpoints*
 
 #### 3. Bulk Processing
-![Bulk Processing](screenshots/bulk-processing.jpg)
+![Bulk Processing](screenshots/bulk_processing.jpg)
 *Successfully processed 4 SMS transactions from data file*
 
 #### 4. Transaction Listing
-![Transactions List](screenshots/transactions-list.jpg)
+![Transactions List](screenshots/transaction_list.jpg)
 *All processed transactions with goal impacts*
 
 #### 5. Transaction Details
-![Transaction Details](screenshots/transaction-details.jpg)
+![Transaction Details](screenshots/Transaction_details.jpg)
 *Detailed transaction view showing classification and goal impacts*
 
 #### 6. Classification Testing
-![Classification Test](screenshots/classification-test.jpg)
+![Classification Test](screenshots/classification_test.jpg)
 *Real-time message classification via API*
 
 #### 7. Goals Summary
-![Goals Summary](screenshots/goals-summary.jpg)
+![Goals Summary](screenshots/goals_summary.jpg)
 *Financial goals tracking and progress*
 
 #### 8. Unit Tests
-![Unit Tests Results](screenshots/unit-tests.jpg)
+![Unit Tests Results](screenshots/unit_tests.jpg)
 *All 6 unit tests passing successfully*
+
+#### 9. API Response Details
+![API Responses](screenshots/responses.jpg)
+*Additional API response demonstrations*
 
 ## Demo Verification
 - ✅ **Health Check**: System operational with database connected
