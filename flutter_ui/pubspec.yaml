@@ -1,0 +1,30 @@
+# @ai perplexity flutter-config
+name: amifi_transaction_ui
+description: AmiFi Transaction Processing Flutter UI
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # HTTP requests
+  http: ^1.1.0
+  
+  # JSON serialization  
+  json_annotation: ^4.8.1
+  
+  # Material Design
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true

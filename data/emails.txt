@@ -1,0 +1,2 @@
+Subject: Statement Ready - Kotak Savings Body: Dear Customer, your monthly interest INR 210.00 has been credited on 30 Sep.
+Subject: Payment Successful - Electricity Body: INR 1,650.00 paid to MSEB. Txn ELP123 on 25 Sep 1002.
